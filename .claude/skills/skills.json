@@ -1,0 +1,21 @@
+{
+  "skills": [
+    {
+      "name": "deploy-test-env",
+      "description": "Deploy a complete test environment for NaviHive on Cloudflare Workers with D1 database, including schema initialization and sample data",
+      "file": "deploy-test-env.md",
+      "triggers": [
+        "deploy test environment",
+        "create test environment",
+        "deploy staging",
+        "create staging environment",
+        "set up test instance",
+        "deploy test platform"
+      ],
+      "category": "deployment",
+      "version": "1.0.0",
+      "author": "Claude Code",
+      "last_updated": "2025-01-11"
+    }
+  ]
+}
